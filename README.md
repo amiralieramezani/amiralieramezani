@@ -32,10 +32,6 @@ Amirali is a Back-end Developer, He also does some Front-end programming as well
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/amiralieramezani"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=amiralieramezani&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/amiralieramezani/Shopping-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amiralieramezani&repo=Shopping-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/amiralieramezani/Todo-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amiralieramezani&repo=Todo-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
