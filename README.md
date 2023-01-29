@@ -8,7 +8,7 @@ Amirali is a Back-end Developer, He also does some Front-end programming as well
 
 * 🌍  I'm based in Iran, Mazandaran, Juybar
 * ✉️  You can contact me at [iamamiraliramezani@gmail.com](mailto:iamamiraliramezani@gmail.com)
-* 🧠  I'm learning I'm learning everything Laravel
+* 🧠  I'm learning everything Laravel
 
 ### Skills
 
